@@ -8,3 +8,5 @@ dataStr = file.read()
 file.close()
 
 color_data = json.loads(dataStr)
+
+print("hi")
