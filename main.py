@@ -9,4 +9,4 @@ file.close()
 
 color_data = json.loads(dataStr)
 
-print("hi")
+print("hello")
