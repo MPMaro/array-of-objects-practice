@@ -9,4 +9,4 @@ file.close()
 
 color_data = json.loads(dataStr)
 
-print("hello")
+print("hello")            counter += 1
